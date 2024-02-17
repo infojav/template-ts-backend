@@ -4,6 +4,6 @@
 | ----------- | ----------- | --- | --- | --- |
 | Server port | SERVER_PORT | x   | x   | x   |
 
-[Dev] --> Development
-[Stg] --> Stage
+[Dev] --> Development  
+[Stg] --> Stage  
 [Pro] --> Production
