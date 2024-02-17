@@ -1,5 +1,5 @@
 {
-    "name": "TS_BACKEND_TEMPLATE",
+    "name": "ts-backend-template",
     "version": "0.0.1",
     "description": "",
     "main": "index.js",
@@ -15,10 +15,10 @@
         "test": "jest",
         "test:dev": "jest --watchAll",
         "check:node:version": "node ./scripts/check-node-version.js",
-        "preinstall": "npm run check-node-version"
+        "preinstall": "npm run check:node:version"
     },
     "keywords": [],
-    "author": "",
+    "author": "infojav",
     "license": "ISC",
     "devDependencies": {
         "@trivago/prettier-plugin-sort-imports": "^4.3.0",
