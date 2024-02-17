@@ -7,7 +7,7 @@
 #### Installing and linking all dependencies for all the packages
 
 ```
-npm run install
+npm install
 ```
 
 #### Run tests and lint files
